@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Zahra Arabic";
+  src: url('../fonts/Zahra_bold.woff') format('woff'), url('../fonts/Zahra.bold.ttf') format('truetype'), url('../fonts/Zahra.Arabic.Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Zahra Arabic";
+  src: url('../fonts/zahra.arabic-webfont.woff') format('woff'), url('../fonts/zahra.arabic-webfont.ttf') format('truetype'), url('../fonts/zahra.arabic-webfont.otf') format('opentype');
+}
